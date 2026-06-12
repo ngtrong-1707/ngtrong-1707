@@ -44,12 +44,6 @@ An aspiring Software Engineer & Data Scientist | Enthusiastic intern focused on 
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ngtrong-1707" alt="ngtrong-1707 Trophies" />
-</p>
-
----
 
 ### 📊 GitHub Statistics
 
