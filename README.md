@@ -55,20 +55,6 @@ I'm a student and aspiring software developer who is building a stronger foundat
 - A simple weather or notes web app using an API.
 - A beginner AI chatbot or Discord bot with a focused feature set.
 
----
-
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngtrong-1707&show_icons=true&locale=en" alt="ngtrong-1707's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngtrong-1707&layout=compact&locale=en" alt="ngtrong-1707's Top Languages" />
-</p>
-
----
-
 ### Connect with Me
 
 <p align="left">
