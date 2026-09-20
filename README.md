@@ -1,73 +1,130 @@
-# Hi there, I'm Nguyễn Đình Minh Trọng 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ngtrong-1707&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<pre>
+███╗   ██╗ ██████╗ ████████╗██████╗  ██████╗ ███╗   ██╗ ██████╗
+████╗  ██║██╔════╝ ╚══██╔══╝██╔══██╗██╔═══██╗████╗  ██║██╔════╝
+██╔██╗ ██║██║  ███╗   ██║   ██████╔╝██║   ██║██╔██╗ ██║██║  ███╗
+██║╚██╗██║██║   ██║   ██║   ██╔══██╗██║   ██║██║╚██╗██║██║   ██║
+██║ ╚████║╚██████╔╝   ██║   ██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝
+╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝
+</pre>
 
-### About Me
+# `ngtrong-1707`
 
-I'm a student and aspiring software developer who is building a stronger foundation in programming, data analysis, and practical software projects.
+### Nguyễn Đình Minh Trọng
 
-- 🔭 **I'm currently working on:** improving my GitHub profile and preparing small projects that show what I can actually build.
-- 🌱 **I'm currently learning:** Python, SQL, JavaScript, data analysis basics, Git/GitHub, and web development fundamentals.
-- 📊 **I'm interested in:** data-driven applications, simple dashboards, automation scripts, and beginner-friendly AI tools.
-- 🧱 **I'm improving:** project structure, README writing, clean code habits, debugging, and deployment basics.
-- 👯 **I'm open to collaborate on:** small student projects, data analysis exercises, simple web apps, and open-source learning projects.
-- 💬 **Ask me about:** my learning journey, Python basics, SQL queries, data cleaning, and beginner web development.
+_"Turning curiosity into code, and code into useful things."_
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00BFA6&center=true&vCenter=true&width=680&lines=AI+%26+Data+Student;Building+practical+products+with+Python;Computer+Vision+%7C+Machine+Learning+%7C+Data+Apps;Learn.+Build.+Improve.+Repeat.)](https://git.io/typing-svg)
 
-### Skills I'm Practicing
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00BFA6)](https://ngtrong.carrd.co/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFA6)](https://www.linkedin.com/in/minh-tr%E1%BB%8Dng-nguy%E1%BB%85n-%C4%91%C3%ACnh-ba2023274/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00BFA6)](https://leetcode.com/u/user6877XP/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFA6)](mailto:minhtrong.ng1707@gmail.com)
 
-#### Programming
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-</p>
-
-#### Data & Learning Tools
-
-<p align="left">
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-</p>
-
-#### Tools
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-</p>
+</div>
 
 ---
 
-### Projects I Want to Build
+## `whoami`
 
-- A Python command-line tool for cleaning CSV data.
-- A small SQL + Python data dashboard.
-- A personal portfolio website with clear project write-ups.
-- A simple weather or notes web app using an API.
-- A beginner AI chatbot or Discord bot with a focused feature set.
+```python
+class NguyenDinhMinhTrong:
+    username = "ngtrong-1707"
+    location = "Vietnam"
+    role = "Student | AI & Data Enthusiast"
 
-### Connect with Me
+    interests = [
+        "Computer Vision & Machine Learning",
+        "Data analysis and interactive dashboards",
+        "Useful software built from real problems",
+    ]
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/minh-trọng-nguyễn-đình-ba2023274/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/user6877XP/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://ngtrong.carrd.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=carrd&logoColor=white" alt="Blog" />
-  </a>
-  <a href="mailto:minhtrong.ng1707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+    currently = [
+        "Building a real-time Vietnamese sign language recognizer",
+        "Strengthening Python, SQL, and software engineering skills",
+        "Learning by shipping projects end to end",
+    ]
+
+    mindset = "Learn deeply. Build clearly. Improve daily."
+
+    def say_hi(self):
+        return "Nice to meet you. Let's build something useful."
+```
+
+---
+
+## `featured_work`
+
+### [Vietnamese Sign Language Recognition](https://github.com/ngtrong-1707/VN-Sign-Language-Recognition)
+
+A real-time video-to-text and speech system for Vietnamese Sign Language, built to make communication more accessible. It combines MediaPipe landmark extraction with a Bi-GRU + Attention model and runs at real-time speed on CPU.
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00BFA6)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00BFA6)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00BFA6)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=flat-square&logo=google&logoColor=00BFA6)
+
+### [Student Performance Dashboard](https://github.com/ngtrong-1707/student-performance-dashboard)
+
+An interactive Streamlit dashboard for exploring student outcomes, comparing subject performance, and estimating failing risk with a Logistic Regression model.
+
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00BFA6)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00BFA6)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=00BFA6)
+![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=flat-square&logo=plotly&logoColor=00BFA6)
+
+---
+
+## `tech_stack`
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00BFA6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00BFA6)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00BFA6)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00BFA6)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00BFA6)
+
+**AI, Data & Web**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00BFA6)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00BFA6)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00BFA6)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00BFA6)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00BFA6)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00BFA6)
+
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00BFA6)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00BFA6)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00BFA6)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00BFA6)
+
+</div>
+
+---
+
+## `build_principles`
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   01. Learn the fundamentals, not only the framework.    │
+│   02. Turn ideas into working, useful systems.           │
+│   03. Keep it simple, then make it better.               │
+│   04. Measure progress by what you can build today.      │
+│                                                          │
+│               Học thật. Làm thật. Tiến bộ thật.          │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=ngtrong-1707&label=PROFILE+VIEWS&color=00BFA6&style=flat-square)
+
+</div>
