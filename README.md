@@ -65,15 +65,6 @@ A real-time video-to-text and speech system for Vietnamese Sign Language, built 
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00BFA6)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=flat-square&logo=google&logoColor=00BFA6)
 
-### [Student Performance Dashboard](https://github.com/ngtrong-1707/student-performance-dashboard)
-
-An interactive Streamlit dashboard for exploring student outcomes, comparing subject performance, and estimating failing risk with a Logistic Regression model.
-
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00BFA6)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00BFA6)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=00BFA6)
-![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=flat-square&logo=plotly&logoColor=00BFA6)
-
 ---
 
 ## `tech_stack`
