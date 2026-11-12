@@ -18,6 +18,7 @@ _"Turning curiosity into code, and code into useful things."_
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00BFA6&center=true&vCenter=true&width=680&lines=AI+%26+Data+Student;Building+practical+products+with+Python;Computer+Vision+%7C+Machine+Learning+%7C+Data+Apps;Learn.+Build.+Improve.+Repeat.)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00BFA6)](https://ngtrong1707.vercel.app/)
+[![MochiShop](https://img.shields.io/badge/MochiShop_Store-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00BFA6)](https://www.mochishop.cloud/)
 [![VSL Live Demo](https://img.shields.io/badge/VSL_AI_Studio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00BFA6)](https://vn-sign-language-recognition.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFA6)](https://www.linkedin.com/in/minh-tr%E1%BB%8Dng-nguy%E1%BB%85n-%C4%91%C3%ACnh-ba2023274/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00BFA6)](https://leetcode.com/u/user6877XP/)
@@ -68,6 +69,14 @@ A real-time video-to-text and speech system for Vietnamese Sign Language, built 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00BFA6)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00BFA6)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=flat-square&logo=google&logoColor=00BFA6)
+
+### [MochiShop — Automated Digital Commerce & AI Storefront](https://www.mochishop.cloud/) · [Google Pixel Auto ↗](https://www.mochishop.cloud/Google-Pixel)
+
+An automated 24/7 digital storefront offering 680+ AI & software subscriptions (ChatGPT, Claude, Gemini, Cursor, Canva), real-time Google Pixel Pro upgrades (`Extract`, `Autopay`, `PayAdd` queue engine with 2FA Base32 sanitization and live API health polling), and instant SheerID student verification at **[mochishop.cloud](https://www.mochishop.cloud/)**.
+
+[![Live Store](https://img.shields.io/badge/Live_Store-mochishop.cloud-8B5CF6?style=flat-square&logo=cloudflare&logoColor=white)](https://www.mochishop.cloud/)
+![Automation](https://img.shields.io/badge/24%2F7_Queue_Automation-0D1117?style=flat-square&logo=fastapi&logoColor=00BFA6)
+![Payments](https://img.shields.io/badge/VietQR_%7C_MoMo_%7C_PayPal-0D1117?style=flat-square&logo=stripe&logoColor=00BFA6)
 
 ---
 
