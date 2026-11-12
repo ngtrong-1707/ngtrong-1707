@@ -17,7 +17,8 @@ _"Turning curiosity into code, and code into useful things."_
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00BFA6&center=true&vCenter=true&width=680&lines=AI+%26+Data+Student;Building+practical+products+with+Python;Computer+Vision+%7C+Machine+Learning+%7C+Data+Apps;Learn.+Build.+Improve.+Repeat.)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00BFA6)](https://ngtrong.carrd.co/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00BFA6)](https://ngtrong1707.vercel.app/)
+[![VSL Live Demo](https://img.shields.io/badge/VSL_AI_Studio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00BFA6)](https://vn-sign-language-recognition.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BFA6)](https://www.linkedin.com/in/minh-tr%E1%BB%8Dng-nguy%E1%BB%85n-%C4%91%C3%ACnh-ba2023274/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00BFA6)](https://leetcode.com/u/user6877XP/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00BFA6)](mailto:minhtrong.ng1707@gmail.com)
@@ -56,12 +57,15 @@ class NguyenDinhMinhTrong:
 
 ## `featured_work`
 
-### [Vietnamese Sign Language Recognition](https://github.com/ngtrong-1707/VN-Sign-Language-Recognition)
+### [Vietnamese Sign Language Recognition](https://github.com/ngtrong-1707/VN-Sign-Language-Recognition) · [Live Demo ↗](https://vn-sign-language-recognition.vercel.app/)
 
-A real-time video-to-text and speech system for Vietnamese Sign Language, built to make communication more accessible. It combines MediaPipe landmark extraction with a Bi-GRU + Attention model and runs at real-time speed on CPU.
+A real-time video-to-text and speech system for Vietnamese Sign Language, built to make communication more accessible. It combines MediaPipe landmark extraction (258-d vector/frame) with a Bi-GRU + Temporal Attention model and ONNX Runtime (`<1ms` CPU inference), deployed live with interactive 2D Skeleton & AI simulation at **[vn-sign-language-recognition.vercel.app](https://vn-sign-language-recognition.vercel.app/)**.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-vn--sign--language--recognition.vercel.app-00BFA6?style=flat-square&logo=vercel&logoColor=white)](https://vn-sign-language-recognition.vercel.app/)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00BFA6)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00BFA6)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-0D1117?style=flat-square&logo=onnx&logoColor=00BFA6)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00BFA6)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00BFA6)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=flat-square&logo=google&logoColor=00BFA6)
 
